@@ -11,7 +11,7 @@
     <div class="container">
         <h1>Arquivo a ser persistido no repositório Git</h1>
 
-        <div>
+        <div id="addslashes">
             <h3>Exemplos de soluções para proteção SQL Injection em PHP</h3>
             <div>
                 <p><strong><em>Addslashes</em></strong> - <em>Adiciona</em> barras invertidas a uma string</p>
